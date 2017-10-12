@@ -1,0 +1,25 @@
+{
+  "name": "news",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/musishui/news.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/musishui/news/issues"
+  },
+  "homepage": "https://github.com/musishui/news#readme",
+  "dependencies": {
+    "fs-extra": "^4.0.2",
+    "koa": "^2.3.0",
+    "nodegit": "^0.20.2",
+    "promisify-node": "^0.4.0"
+  }
+}
